@@ -1,7 +1,7 @@
-git init
-git status
-git add -A
+git init -> initilalize git
+git status -> list untracked files
+git add -A -> add all changes
 git commit -m "message"
 git clone
 git push
-
+git pull
